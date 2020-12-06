@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.avatar {
+  display: flex;
+  align-items: center;
+}
+.avatar__img {
+  width: 200px;
+  height: 200px;
+}
